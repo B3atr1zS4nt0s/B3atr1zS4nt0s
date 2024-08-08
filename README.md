@@ -1,5 +1,10 @@
-## Hi there 👋
-
+# Oiii 👋
+## Beatriz S. Correia, 16y✨, cores favoritas são Azul e preto, amo gatos 😻❤️
+## Vai Corinthians 🦅
+### Estou estudando na Alura
+### Estou me desenvolvendo na linguagem JavaScript
+### Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+### email: 00001143031258sp@al.educacao.sp.gov.br
 <!--
 **B3atr1zS4nt0s/B3atr1zS4nt0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
